@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <int name="chatForwardColor" value="-16740630" />
+    <string name="date">1602879543474</string>
+    <int name="chatStatusSize" value="15" />
+    <int name="chatMemberColor" value="-1" />
+    <boolean name="usePlusTheme" value="true" />
+    <int name="chatsHeaderColor" value="-16735233" />
+    <int name="chatsHeaderTitle" value="2" />
+    <int name="chatNameColor" value="-1" />
+    <string name="model">Redmi Note 8/9</string>
+    <int name="prefHeaderColor" value="-16735233" />
+    <int name="chatsHeaderTabCounterSilentBGColor" value="-16767489" />
+    <int name="chatDateBubbleColor" value="2097193983" />
+    <int name="chatsHeaderIconsColor" value="-1" />
+    <int name="chatNameSize" value="20" />
+    <int name="chatRLinkColor" value="-16764161" />
+    <int name="dialogColor" value="-16735233" />
+    <int name="chatLLinkColor" value="-16764161" />
+    <int name="contactsOnlineColor" value="-16740630" />
+    <int name="chatAttachTextColor" value="-1" />
+    <int name="chatEmojiViewTabColor" value="-15353601" />
+    <string name="version">7.0.1.0</string>
+    <int name="chatEmojiViewBGColor" value="-1366191727" />
+    <boolean name="chatMemberColorCheck" value="true" />
+    <int name="themeColor" value="-16735233" />
+    <string name="chatCheckStyle">EdCheck</string>
+    <int name="chatRTimeColor" value="-1" />
+    <boolean name="chatsTabsToBottom" value="true" />
+    <boolean name="chatsTabTitlesMode" value="false" />
+    <int name="chatEditTextColor" value="-1" />
+    <int name="chatSelectedMsgBGColor" value="-1023368193" />
+    <int name="contactsHeaderColor" value="-16735233" />
+    <int name="chatsHeaderSubtitleSize" value="14" />
+    <int name="chatOnlineColor" value="-1" />
+    <int name="chatEditTextBGColor" value="-1366191727" />
+    <int name="profileNameColor" value="-1" />
+    <string name="chatBubbleStyle">PictuLineLex</string>
+    <int name="chatEmojiViewTabIconColor" value="-1" />
+    <int name="chatStatusColor" value="-1" />
+    <int name="chatLTimeColor" value="-1" />
+    <int name="chatContactNameColor" value="-1" />
+    <int name="chatsMemberColor" value="-16740630" />
+    <int name="chatsFloatingBGColor" value="-16735233" />
+    <int name="chatHeaderColor" value="-16735233" />
+    <int name="chatEditTextIconsColor" value="-1" />
+    <int name="chatsMessageColor" value="-16777216" />
+    <int name="chatLBubbleColor" value="2097193983" />
+    <int name="chatsTabsTextSize" value="13" />
+    <int name="chatsMediaColor" value="-16740630" />
+    <boolean name="chatsHideStatusIndicator" value="false" />
+    <int name="chatsHeaderTabCounterBGColor" value="-16767489" />
+    <int name="chatAttachBGColor" value="-1366191727" />
+    <int name="chatLTextColor" value="-16777216" />
+    <int name="chatSendIconColor" value="-1" />
+    <int name="chatsCountBGColor" value="-16735233" />
+    <int name="chatsAvatarSize" value="55" />
+    <int name="themeDarkColor" value="-16740630" />
+    <string name="themeName">NarutoTelgr</string>
+    <int name="chatChecksColor" value="-16764161" />
+    <int name="themeLightColor" value="-12524545" />
+    <int name="chatRBubbleColor" value="-1366191727" />
+    <int name="drawerPhoneColor" value="-1" />
+    <int name="chatsChecksColor" value="-16735233" />
+</map>
